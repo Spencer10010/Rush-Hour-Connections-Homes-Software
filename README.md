@@ -4,6 +4,7 @@ KSU 2022 Hackathon by Group Rush Hour 2
 people := RECORD
   STRING first;
   STRING last;
+  //STRING 'religion';
   INTEGER christian;
   INTEGER muslim;
   INTEGER jewish;
